@@ -1,7 +1,7 @@
 from pygame import *
 import os
 import sys
-import random
+
 
 
 
